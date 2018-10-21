@@ -21,10 +21,6 @@ const ieStop = (function () {
      * returns TRUE if browser is IE (Edge is not IE) 
      */
     function isIE() {
-
-        //TODO remove
-        return true
-
         var ua = window.navigator.userAgent
 
         var msie = ua.indexOf('MSIE ')
@@ -41,10 +37,8 @@ const ieStop = (function () {
         const linksWrapper = document.createElement('div')
         linksWrapper.style = 'margin-top: 200px'
 
-        for(browser of grownUpBrowsers) {
-            console.log(browser)
-            // const div = document.createElement('div')
-            const link =  document.createElement('a')
+        for (browser of grownUpBrowsers) {
+            const link = document.createElement('a')
             link.href = browser.url
             link.text = browser.name
             link.style = 'font-size: 25px; margin: 30px'
@@ -96,7 +90,7 @@ const ieStop = (function () {
         justify-content: center;
         text-align: center;
         font-size: 40px;
-        font-family: sans-serif;
+        font-family: sans-serif !important;
         color: #333;
         `
     }
@@ -135,4 +129,4 @@ const ieStop = (function () {
 })()
 
 
-ieStop()
+module.exports = ieStop
