@@ -1,4 +1,4 @@
-#IE STOP!
+# IE STOP!
 
 How many hours have you wasted hacking an already working solution to also work on ie?
 
