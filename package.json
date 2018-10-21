@@ -1,0 +1,26 @@
+{
+  "name": "ie-stop",
+  "version": "1.0.0",
+  "description": "Tool to unite all web developers and their customers to make ie obsolete.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasofalcon/ie-stop.git"
+  },
+  "keywords": [
+    "stop",
+    "ie",
+    "obsolete",
+    "internet",
+    "explorer"
+  ],
+  "author": "jasofalcon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasofalcon/ie-stop/issues"
+  },
+  "homepage": "https://github.com/jasofalcon/ie-stop#readme"
+}
