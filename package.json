@@ -1,6 +1,6 @@
 {
   "name": "ie-stop",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tool to unite all web developers and their customers to make ie obsolete.",
   "main": "index.js",
   "scripts": {
