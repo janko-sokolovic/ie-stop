@@ -4,6 +4,13 @@ How many hours have you wasted hacking an already working solution to also work 
 
 This tool is used to make ie completely obsolete. For every project you use, add this tiny package which will 'motivate' the user to switch to another browser.
 
+## Installation
+
+```shell
+$ npm i --save ie-stop
+$ yarn add ie-stop
+```
+
 It is still in early phase, so feel free to contribute and add new looks/messages/description for the user as in why is ie so awful.
 
 Advantages:
