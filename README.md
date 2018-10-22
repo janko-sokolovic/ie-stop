@@ -1,8 +1,8 @@
-# IE STOP!
+# IE Stop!
 
-How many hours have you wasted hacking an already working solution to also work on ie?
+How many hours have we wasted hacking an already working solution to also work on IE?
 
-This tool is used to make ie completely obsolete. For every project you use, add this tiny package which will 'motivate' the user to switch to another browser.
+This tool is used to make IE completely obsolete. For every project you use, add this tiny package which will "motivate" the user to switch to another browser.
 
 ## Installation
 
@@ -24,5 +24,5 @@ It is still in early phase, so feel free to contribute and add new looks/message
 Advantages:
 - less time wasted on developing ie compatibility -> more new features sooner
 - security issues mitigated
-- ugly animations - users will enjoy web more
+- ugly animations removed - users will enjoy web more
 - no more missing features/animations due to IE
